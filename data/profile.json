@@ -1,9 +1,9 @@
 {
   "name": "Andre L Souza",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Fullstack",
+  "photo": "https://hermes.dio.me/users/student/71f7da24-3853-4108-83fb-afb704594a91.jpg",
+  "job": "Junior Fullstack Developer",
   "location": "Piraju - SP",
-  "phone": "(14) 99624-0494",
+  "phone": "(14) 9 9624-0494",
   "email": "andre_luiz1907@hotmail.com",
   "skills": {
     "hardSkills": [
@@ -16,16 +16,8 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/docker.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-      },
-      {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
       },
       {
         "name": "Postgresql",
@@ -48,8 +40,8 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Pokedex",
+      "url": "https://github.com/Drenilson/pokedex.git",
       "github": true
     },
     {
@@ -60,19 +52,14 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
+      "name": "Mortean Clinical Analysis Laboratory.",
+      "period": "2017 - até o momento",
       "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
+      "name": "Labersan Clinical Analysis Laboratory.",
+      "period": "2015 - 2017",
       "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
     },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
-    }
   ]
 }
